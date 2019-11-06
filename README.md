@@ -1,5 +1,7 @@
 # flowdrawerjs
-<img src="example/earth.gif"/>
+
+![](example/earth.gif)
+
 Example
 ```html
 <div id="flowdiv"></div>
