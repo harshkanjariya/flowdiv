@@ -1,6 +1,6 @@
 # flowdrawerjs
 
-![](example/earth.gif)
+![](example/demo.gif)
 
 Example
 ```html
