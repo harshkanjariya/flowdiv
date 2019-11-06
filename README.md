@@ -1,5 +1,5 @@
 # flowdrawerjs
-<div id="flowdiv"></div>
+<xmp><div id="flowdiv"></div></xmp>
 <script>
 	init({
 		element:"flowdiv",
