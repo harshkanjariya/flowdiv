@@ -1,5 +1,5 @@
 # flowdrawerjs
-![hii](example/earth.gif)
+<img src="example/earth.gif"/>
 Example
 ```html
 <div id="flowdiv"></div>
