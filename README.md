@@ -1,4 +1,4 @@
-# flowdrawerjs
+# flowdiv
 
 ![Demo](example/demo.gif)
 
